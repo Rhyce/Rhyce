@@ -25,9 +25,9 @@ This assists with making placeholder voices during development of my projects.
 
 # 📫 Contact
 
-You can reach me through my website at [Rhyce Smith](https://rhycesmith.com)
+You can reach me through my website at [Rhyce Smith](https://rhyce.dev)
 
-Or email me at hello@rhycesmith.com
+Or email me at hello@rhyce.dev
 
 <!---
 Rhyce/Rhyce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
