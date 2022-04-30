@@ -8,7 +8,9 @@ My interests are a bit all over the place. On a software side, I enjoy game and 
 You may notice I have a couple of public projects, these aren't updated too often but I am usually working on private projects that I don't yet wish to be public.
 
 ## [Epic Games Launcher Project Path Manager](https://github.com/Rhyce/EGLProjectPathManager)
-So, you may have noticed some projects don't show up in the Epic Games Launcher. This is usually because the Epic Games Launcher hasn't been told where to look for projects. The Epic Games Launcher doesn't have a built in way to manage directories where Unreal Projects are stored. You move your project elseware, the Epic Games Launcher won't be able to see it. This can be handled manually by editing the configuration for the Epic Games Launcher but this tool allows you to do it in a far easier, and visual, way.
+The Epic Games Launcher has a problem where projects won’t show under "My Projects" in the Epic Games Launcher. This also causes issues when adding Marketplace Assets to your project as the launcher won’t show them in the Add To Project Dialog.
+
+This is usually because the Epic Games Launcher hasn't been told where to look for projects. The Epic Games Launcher doesn't have a built in way to manage directories where Unreal Projects are stored. You move your project elseware, the Epic Games Launcher won't be able to see it. This can be handled manually by editing the configuration for the Epic Games Launcher but this tool allows you to do it in a far easier, and visual, way.
 
 ## [UPaT](https://github.com/Rhyce/UPaT)
 
