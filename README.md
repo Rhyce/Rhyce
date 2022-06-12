@@ -30,7 +30,7 @@ This assists with making placeholder voices during development of my projects.
 
 # 📫 Contact
 
-You can reach me through my website at [Rhyce Smith](https://rhyce.dev)
+You can reach me through my website at [Rhyce.dev](https://rhyce.dev)
 
 Or email me at hello@rhyce.dev
 
