@@ -1,4 +1,4 @@
-# 👋 Hey, I’m @Rhyce
+# 👋 Hey, I’m Rhyce!
 
 # 👀 Interests
 My interests are a bit all over the place. On a software side, I enjoy game and software development and on the not-at-the-computer side, I enjoy driving and being outdoors in general.
