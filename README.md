@@ -33,6 +33,12 @@ This assists with making placeholder voices during development of my projects.
 
 You can reach me through my website at [Rhyce.dev](https://rhyce.dev)
 
+Twitter <a href="https://twitter.com/RhyceDev">@RhyceDev</a>
+
+Instagram <a href="https://instagram.com/Rhyce.Dev">@Rhyce.dev</a>
+
+Mastodon <a rel="me" href="https://universeodon.com/@Rhyce">@Rhyce</a>
+
 Or email me at hello@rhyce.dev
 
 <!---
