@@ -2,7 +2,7 @@
 Welcome! Let me tell you a bit about myself.
 
 # 👀 Interests
-My interests are a bit all over the place. On a software side, I enjoy game and software development and on the not-at-the-computer side, I enjoy driving and being outdoors in general.
+My interests are a bit all over the place. On a software side, I enjoy game and software development and on the not-at-the-computer side, I enjoy driving and being outdoors in general. Yeah, I know I'm weird.
 
 # 💻 Projects
 
@@ -22,6 +22,8 @@ Unreal Engine uses it directly in-editor when packaging games but some studios, 
 At the moment it only handle's extracting Pak files but I am thinking of adding more features to it.
 
 The main reason it only extracts is due to me wanting to extract the Pak files of games I didn't make, not for malicious reasons, just to see how they're built. As far as I know, you cannot make an editable project with extraction.
+
+At the current time this project has been made private while I work on a few things.
 
 ## [TTSTool](https://github.com/Rhyce/TTSTool)
 
