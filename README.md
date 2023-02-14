@@ -15,6 +15,10 @@ This is usually because the Epic Games Launcher hasn't been told where to look f
 
 ## [UPaT](https://github.com/Rhyce/UPaT)
 
+```
+I've made this repo private for a bit while I do some extra work on it.
+```
+
 UPaT is a tool I built to allow interaction with UnrealPak.exe. UnrealPak.exe is the packaging tool that comes with Unreal Engine. Sometimes it can be a pain to use directly via the command line so I'm building a tool to use it instead.
 
 Unreal Engine uses it directly in-editor when packaging games but some studios, with automated tools, use it directly.
