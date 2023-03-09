@@ -4,6 +4,13 @@ Welcome! Let me tell you a bit about myself.
 # 👀 Interests
 My interests are a bit all over the place. On a software side, I enjoy game and software development and on the not-at-the-computer side, I enjoy driving and being outdoors in general. Yeah, I know I'm weird.
 
+# 💼 Work
+<a href="https://www.moropo.com">
+  <img src="https://uploads-ssl.webflow.com/61dee0fdc0e8c8d7d23da7b7/63987c8a513091b3975c36d6_Open%20Graph%20Webflow%20Image%20(1).webp" width="200">
+</a>
+
+Currently working at [Moropo](https://www.moropo.com) where we are creating a platform to make automated mobile app testing easier and more accessible to developers and non-developers alike.
+
 # 💻 Projects
 
 You may notice I have a couple of public projects, these aren't updated too often but I am usually working on private projects that I don't yet wish to be public.
